@@ -1,0 +1,414 @@
+body {
+    background: url(mount-blade-wallpaper-1080p-187413.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.g123 {
+    text-align: center;
+    color: rgba(40, 0, 208, 0.74);
+    font-weight: bold;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.autoblock {
+    margin-top: -50px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.Greentop {
+    margin-top: -30px;
+}
+
+.autoblockbutton {
+    color: rgba(0, 204, 230, 0.76);
+    font-weight: bold;
+    margin-left: 60%;
+    font-size: 20px;
+}
+
+.autoblocknews {
+    margin-top: 25px;
+    margin-left: 30%;
+    width: 40%;
+    background: url(21-93.jpg);
+    background-size: 100% 200%;
+    padding: 50px 0px 50px;
+    box-shadow: 10px 10px 10px;
+    font-size: 25px;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+
+.aimnw {
+    margin-top: -50px;
+    text-align: center;
+    color: #ff4500;
+}
+
+.aimnwtop {
+    margin-top: -30px;
+}
+
+.aimnwbutton {
+    color: rgb(0, 29, 255);
+    font-weight: bold;
+    margin-left: 60%;
+    font-size: 20px;
+}
+
+.aimnwnews {
+    margin-top: 25px;
+    margin-left: 30%;
+    width: 40%;
+    background: url(images.jpg);
+    background-size: 100% 200%;
+    padding: 50px 0px 50px;
+    box-shadow: 10px 10px 10px;
+    font-size: 25px;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+
+.autoblockbutton:hover {
+    text-decoration: none;
+    padding: 0px 5px 0px;
+    border-radius: 15px;
+    background: rgba(42, 42, 42, 0.9);
+    color: red;
+}
+
+.aimnwbutton:hover {
+    text-decoration: none;
+    padding: 0px 5px 0px;
+    border-radius: 15px;
+    background: rgba(42, 42, 42, 0.9);
+    color: red;
+}
+
+.run {
+    font-weight: bold;
+    color: green;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.index:hover {
+    color: darkgoldenrod;
+    padding: 0px 2px 0px;
+    background: #ccc;
+    border-radius: 10px;
+}
+
+.index {
+    font-size: 20px;
+    color: aliceblue;
+    font-family: fantasy;
+}
+
+.index-aim:hover {
+    color: darkgoldenrod;
+    padding: 0px 2px 0px;
+    background: #ccc;
+    border-radius: 10px;
+}
+
+.index-aim {
+    font-size: 20px;
+    color: aliceblue;
+    font-family: fantasy;
+}
+
+.indextop-aim {
+    text-align: center;
+    font-size: 25px;
+    color: aliceblue;
+    font-family: fantasy;
+    margin-top: -0px;
+}
+
+.indextop {
+    text-align: center;
+    font-size: 25px;
+    color: aliceblue;
+    font-family: fantasy;
+    margin-top: -0px;
+}
+
+.M1B {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.pauto {
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.autodownload {
+    font-weight: bold;
+}
+
+.autodownload:hover {
+    padding: 0px 2px 0px;
+    background: #ccc;
+    border-radius: 10px;
+}
+
+.text-decoration {
+    font-weight: bold;
+    text-decoration: underline;
+    color: #ffffff;
+}
+
+details:hover {
+    padding: 0px 0px 0px;
+    border-radius: 10px;
+}
+
+details {
+    width: 100%;
+}
+
+.engrus {
+    box-sizing: border-box;
+    text-align: center;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    font-family: monospace;
+}
+
+.eng {
+    color: #0058ff;
+}
+
+.rus {
+    color: red;
+}
+
+.rus:hover {
+    padding: 0 2px;
+    border-radius: 5px;
+    background: #9d9d9d;
+    box-shadow: 1px 1px 1px;
+}
+
+.eng:hover {
+    padding: 0 2px;
+    border-radius: 5px;
+    background: #9d9d9d;
+    box-shadow: 1px 1px 1px;
+}
+
+.rus:visited {
+    padding: 0 2px;
+    border-radius: 5px;
+    background: #9d9d9d;
+    box-shadow: 1px 1px 1px;
+}
+
+.eng:visited {
+    padding: 0 2px;
+    border-radius: 5px;
+    background: #9d9d9d;
+    box-shadow: 1px 1px 1px;
+}
+
+.h1 {
+    text-align: center;
+    font-family: monospace;
+    color: #ffffff;
+}
+
+.disqus {
+    margin: 20px 50px 000px;
+}
+
+.disqusauto {
+    margin: 20px 50px 000px;
+}
+
+@media (max-width:768px) {
+    .sprinthost {
+        width: 708px;
+        height: 90px;
+}
+        .autoblocknews {
+    margin-top: 25px;
+    margin-left: 10%;
+    width: 90%;
+    background: url(21-93.jpg);
+    background-size: 100% 200%;
+    padding: 50px 0px 50px;
+    box-shadow: 10px 10px 10px;
+    font-size: 25px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    }
+
+    .aimnwnews {
+    margin-top: 25px;
+    margin-left: 10%;
+    width: 90%;
+    background: url(images.jpg);
+    background-size: 100% 200%;
+    padding: 50px 0px 50px;
+    box-shadow: 10px 10px 10px;
+    font-size: 25px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    }
+
+    .disqus {
+    margin: 50px 0px 50px;
+}
+    .disqusauto {
+    margin: 50px 0px 50px;
+}
+.autoblockbutton {
+    color: rgba(0, 204, 230, 0.76);
+    font-weight: bold;
+    margin-left: 50%;
+    font-size: 20px;
+}
+
+.aimnwbutton {
+    color: rgba(0, 204, 230, 0.76);
+    font-weight: bold;
+    margin-left: 50%;
+    font-size: 20px;
+}
+
+.aimnw {
+    font-size: 20px;
+    margin-top: -40px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.autoblock {
+    font-size: 20px;
+    margin-top: -40px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.indextop-aim {
+    text-align: center;
+    font-size: 15px;
+    color: aliceblue;
+    font-family: fantasy;
+    margin-top: -0px;
+}
+
+.index-aim:hover {
+    color: darkgoldenrod;
+    padding: 0px 2px 0px;
+    background: #ccc;
+    border-radius: 10px;
+}
+
+.index-aim {
+    font-size: 15px;
+    color: aliceblue;
+    font-family: fantasy;
+}
+@media (max-width:420px) {
+    .sprinthost {
+        width: 350px;
+        height: 90px;
+    }
+    .autoblocknews {
+    margin-top: 25px;
+    margin-left: 1%;
+    width: 100%;
+    background: url(21-93.jpg);
+    background-size: 100% 200%;
+    padding: 50px 0px 50px;
+    box-shadow: 10px 10px 10px;
+    font-size: 25px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    }
+
+    .aimnwnews {
+    margin-top: 25px;
+    margin-left: 1%;
+    width: 100%;
+    background: url(images.jpg));
+    background-size: 100% 200%;
+    padding: 50px 0px 50px;
+    box-shadow: 10px 10px 10px;
+    font-size: 25px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    }
+
+    .disqus {
+    margin: 50px 0px 50px;
+}
+    .disqusauto {
+    margin: 50px 0px 50px;
+}
+
+.g123 {
+    text-align: center;
+    color: rgba(40, 0, 208, 0.74);
+    font-weight: bold;
+    font-size: 15px;
+    font-family: cursive;
+}
+
+.aimnwbutton {
+    color: rgba(0, 204, 230, 0.76);
+    font-weight: bold;
+    margin-left: 50%;
+    font-size: 20px;
+}
+.aimnw {
+    font-size: 20px;
+    margin-top: -40px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.autoblockbutton {
+    color: rgba(0, 204, 230, 0.76);
+    font-weight: bold;
+    margin-left: 50%;
+    font-size: 20px;
+}
+.autoblock {
+    font-size: 20px;
+    margin-top: -40px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.indextop-aim {
+    text-align: center;
+    font-size: 15px;
+    color: aliceblue;
+    font-family: fantasy;
+    margin-top: -0px;
+}
+
+.index-aim:hover {
+    color: darkgoldenrod;
+    padding: 0px 2px 0px;
+    background: #ccc;
+    border-radius: 10px;
+}
+
+.index-aim {
+    font-size: 12px;
+    color: aliceblue;
+    font-family: fantasy;
+}
